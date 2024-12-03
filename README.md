@@ -4,7 +4,7 @@
 
 📈 M.Sc. in Physics who enjoys sophisticated calculations and fancy data visualization.
 
-❤️ I love Open Source, Linux 🐧, HEMA 🗡️, and tabletop RPGs.
+❤️ I love Open Source, Linux 🐧, HEMA 🗡️, and tabletop RPGs 🎲
 
 ### 🛠️ My tools
 ![fastapi](https://img.shields.io/static/v1?logo=fastapi&label=&message=FastAPI&color=36465D&logoColor=AAA&style=flat-square)
