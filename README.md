@@ -6,7 +6,7 @@
 
 ❤️ I love Open Source, Linux 🐧, HEMA 🗡️, and tabletop RPGs 🎲
 
-[![kompoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kompoth&show_icons=true&hide_rank=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![kompoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kompoth&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
