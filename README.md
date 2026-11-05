@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Vasilii Negrebetskii
+# Hi, my name is Vasilii -`ღ´-
 
 - 👷 I am a somewhat seasoned Python Developer and MLOps Engineer, ex-FinTech
 - 🌠 I have an M.Sc. in Physics, still passionate about burning stars
